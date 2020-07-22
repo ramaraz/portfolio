@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+
+.p-description {
+  font-size: 20px;
+}
+
+.bg-color {
+  background-color: antiquewhite;
+}
+
+.span-text {
+  font-size: 1.5rem;
+}
+
+.text {
+  font-size: 1.25rem;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
